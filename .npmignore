@@ -1,9 +1,9 @@
+.github
+src
 .eslintignore
 .eslintrc
 .prettierrc
 tsconfig.json
-.github
 .releaserc.json
 readme.md
-src
 !dist
