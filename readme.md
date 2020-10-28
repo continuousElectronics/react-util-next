@@ -1,3 +1,3 @@
 # React Utils - Next
 
-Tools for Next JS
+Tools for Next JS.
